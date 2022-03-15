@@ -1,0 +1,25 @@
+body{
+    background: rgb(13,137,17);
+    background: linear-gradient(135deg, rgba(13,137,17,0.6281863087031687) 0%, rgba(112,70,252,1) 100%);
+}
+h1 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial;
+}
+
+ul {
+    list-style-type: none;
+    text-align: right;
+}
+
+li {
+    display: inline-block;
+}
+
+.div1 {
+    margin: 50px;
+    color: white;
+}

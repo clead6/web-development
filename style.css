@@ -64,3 +64,21 @@ p {
     background-color: rgba(112,70,252,1);
     color: white;
  }
+
+
+ul{
+    margin-left: 50px;
+}
+
+h3{
+    color:#020d70;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+h2{
+    color:#c7e091;
+    outline: #49A1DA;
+    outline-width: 10px;
+    margin: 25px;
+}

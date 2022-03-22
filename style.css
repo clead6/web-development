@@ -87,3 +87,22 @@ form {
     flex: 50%;
     padding: 150px;
 }
+
+/* Button */
+button {
+    background-color: rgb(13,137,17);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+.button_center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+  }
